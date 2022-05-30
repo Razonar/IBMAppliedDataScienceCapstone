@@ -1,2 +1,3 @@
-# IBM Applied Data Science Capstone
-IBM Course
+# IBM Python Project
+*IBM Course*
+2022, Alvaro Diaz Falconi
